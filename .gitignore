@@ -1,0 +1,10 @@
+# MySettings
+/bin/config.py
+/bin/Fesya.db
+ATBot_test.session
+ATBot_work.session
+brief_ATBot_test.session
+pirate_detector.session
+pirate_detector.session-journal
+brief_ATBot_test.session-journal
+error.log
